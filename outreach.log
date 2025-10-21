@@ -1,0 +1,53 @@
+[2025-10-16 18:50:50] BRREG GET page=0 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 0, 'sort': 'navn,asc'}
+[2025-10-16 18:50:53] Reached max_pages=1 for 0301
+[2025-10-16 18:50:53] Exported 0 rows to outreach_prospects.csv
+[2025-10-16 18:50:53] Quick run complete (1 page per kommune).
+[2025-10-16 18:51:29] BRREG GET page=0 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 0, 'sort': 'navn,asc'}
+[2025-10-16 18:51:30] BRREG GET page=1 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 1, 'sort': 'navn,asc'}
+[2025-10-16 18:51:33] Reached max_pages=2 for 0301
+[2025-10-16 18:51:33] Fetched 27 companies from BRREG
+[2025-10-16 18:51:33] Exported 0 rows to outreach_prospects.csv
+[2025-10-16 18:57:55] Exported 0 rows to outreach_prospects.csv
+[2025-10-16 18:58:30] Exported 0 rows to outreach_prospects.csv
+[2025-10-16 18:58:36] BRREG GET page=0 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 0, 'sort': 'navn,asc'}
+[2025-10-16 18:58:38] BRREG GET page=1 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 1, 'sort': 'navn,asc'}
+[2025-10-16 18:58:40] Reached max_pages=2 for 0301
+[2025-10-16 18:58:40] Fetched 27 companies from BRREG
+[2025-10-16 18:58:40] Exported 0 rows to outreach_prospects.csv
+[2025-10-16 18:59:25] Found email audun.berg@10fold.no for orgnr 819767122
+[2025-10-16 18:59:27] Found email kundeservice@24center.no for orgnr 927237652
+[2025-10-16 18:59:28] Enriched 2 companies with email
+[2025-10-16 18:59:28] Exported 2 rows to outreach_prospects.csv
+[2025-10-16 19:01:36] BRREG GET page=0 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 0, 'sort': 'navn,asc'}
+[2025-10-16 19:01:39] BRREG GET page=1 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 1, 'sort': 'navn,asc'}
+[2025-10-16 19:01:40] BRREG GET page=2 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 2, 'sort': 'navn,asc'}
+[2025-10-16 19:01:42] BRREG GET page=3 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 3, 'sort': 'navn,asc'}
+[2025-10-16 19:01:45] BRREG GET page=4 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 4, 'sort': 'navn,asc'}
+[2025-10-16 19:01:48] BRREG GET page=5 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 5, 'sort': 'navn,asc'}
+[2025-10-16 19:01:50] BRREG GET page=6 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 6, 'sort': 'navn,asc'}
+[2025-10-16 19:01:53] BRREG GET page=7 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 7, 'sort': 'navn,asc'}
+[2025-10-16 19:01:55] BRREG GET page=8 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 8, 'sort': 'navn,asc'}
+[2025-10-16 19:01:58] BRREG GET page=9 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 9, 'sort': 'navn,asc'}
+[2025-10-16 19:02:01] BRREG GET page=10 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 10, 'sort': 'navn,asc'}
+[2025-10-16 19:02:03] BRREG GET page=11 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 11, 'sort': 'navn,asc'}
+[2025-10-16 19:02:05] BRREG GET page=12 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 12, 'sort': 'navn,asc'}
+[2025-10-16 19:02:06] BRREG GET page=13 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 13, 'sort': 'navn,asc'}
+[2025-10-16 19:02:10] BRREG GET page=14 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 14, 'sort': 'navn,asc'}
+[2025-10-16 19:02:12] BRREG GET page=15 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 15, 'sort': 'navn,asc'}
+[2025-10-16 19:02:15] BRREG GET page=16 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 16, 'sort': 'navn,asc'}
+[2025-10-16 19:02:16] BRREG GET page=17 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 17, 'sort': 'navn,asc'}
+[2025-10-16 19:02:19] BRREG GET page=18 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 18, 'sort': 'navn,asc'}
+[2025-10-16 19:02:21] BRREG GET page=19 muni=0301 params={'kommunenummer': '0301', 'size': 100, 'page': 19, 'sort': 'navn,asc'}
+[2025-10-16 19:02:24] Reached max_pages=20 for 0301
+[2025-10-16 19:02:24] Fetched 221 companies from BRREG
+[2025-10-16 19:02:24] Exported 2 rows to outreach_prospects.csv
+[2025-10-16 19:03:50] Found email hei@solvr.no for orgnr 922020434
+[2025-10-16 19:04:06] Found email post@proffregnskap.no for orgnr 994921568
+[2025-10-16 19:04:15] Found email morten@accountingas.no for orgnr 893320172
+[2025-10-16 19:04:17] Found email hei@accountor.no for orgnr 981947843
+[2025-10-16 19:04:19] Found email hei@accountor.no for orgnr 958466013
+[2025-10-16 19:04:22] Found email info@acsfinans.no for orgnr 987840846
+[2025-10-16 19:04:26] Found email post@actecan.no for orgnr 996552330
+[2025-10-16 19:04:29] Found email post@activedeal.no for orgnr 976296648
+[2025-10-16 19:04:50] Enriched 8 companies with email
+[2025-10-16 19:04:51] Exported 10 rows to outreach_prospects.csv
